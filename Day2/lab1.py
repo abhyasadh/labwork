@@ -1,3 +1,4 @@
+#time in day, hour and minute
 a=int(input("Enter time in seconds: "))
 day=a//86400
 hour=a//3600

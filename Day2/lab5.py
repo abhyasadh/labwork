@@ -1,3 +1,4 @@
+#number of bench in class
 a=int(input("Enter number of students in first class: "))
 b=int(input("Enter number of students in second class: "))
 c=int(input("Enter number of students in third class: "))

@@ -1,3 +1,4 @@
+#apples in basket
 a=int(input("Enter number of apples in the basket: "))
 b=int(input("Enter number of students: "))
 c=a//b

@@ -1,3 +1,4 @@
+#sum of digits in number
 a=int(input("Enter a number: "))
 
 b=0

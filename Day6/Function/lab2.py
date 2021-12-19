@@ -1,3 +1,4 @@
+#fizzbuzz
 a=int(input("Enter a number: "))
 def fizz_buzz(a):
     if a%3==0 and a%5!=0:

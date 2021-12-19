@@ -1,3 +1,2 @@
-#create a tuple
-a=('1',2)
+a=tuple(range(0,9))
 print(a)

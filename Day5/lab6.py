@@ -1,3 +1,4 @@
+#number of odd even
 a=int(input("Enter a number: "))
 j=0
 k=0

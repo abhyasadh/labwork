@@ -1,3 +1,4 @@
+#number game 1-100
 import random
 target_num, guess_num=random.randint(1,100),0
 while target_num!=guess_num:

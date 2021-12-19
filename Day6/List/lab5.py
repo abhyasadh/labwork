@@ -1,4 +1,4 @@
-a=['abc','xyz','aba','1221','abba']
+a=['abc','xyz','aba','1221']
 y=0
 for x in a:
     if len(x)>2:

@@ -1,4 +1,5 @@
-choice=input("Convert to celsius/farenheit? (C/F)")
+#temperature conversion
+choice=input("Convert to celsius/farenheit? (C/F): ")
 if choice=="C":
     a=int(input("Enter temperature in Farenheit: "))
     b=5/9*(a-32)
